@@ -1,6 +1,6 @@
-### Named Entity Recognition
+### NAMED ENTITY RECOGONITION.
 
-## AIM
+## AIM:
 
 To develop an LSTM-based model for recognizing the named entities in the text.
 
